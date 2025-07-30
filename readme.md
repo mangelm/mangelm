@@ -2,6 +2,8 @@
 
 Soy un desarrollador junior apasionado por la tecnología, el aprendizaje continuo y la construcción de soluciones prácticas. 
 Actualmente estoy aprendiendo y mejorando mis habilidades en desarrollo web y de software.
+Si no sé hacer algo no es excusa para no aprender a hacerlo ya que considero que cada cosa que no se hacer es un nuevo reto y conocimiento 
+a adquirir. 
 
 ---
 
