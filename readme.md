@@ -15,7 +15,7 @@ Actualmente estoy aprendiendo y mejorando mis habilidades en desarrollo web y de
 
 ## 🌱 En este momento estoy aprendiendo
 
-- TypeScrip
+- TypeScript
 
 ## 📫 Contacto
 
