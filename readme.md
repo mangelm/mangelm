@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Miguel Angel Moreno Delgaod
+# 👋 ¡Hola! Soy Miguel Angel Moreno Delgado
 
 Soy un desarrollador junior apasionado por la tecnología, el aprendizaje continuo y la construcción de soluciones prácticas. 
 Actualmente estoy aprendiendo y mejorando mis habilidades en desarrollo web y de software.
