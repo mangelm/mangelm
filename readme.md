@@ -1,9 +1,8 @@
 # 👋 ¡Hola! Soy Miguel Angel Moreno Delgado
 
 Soy un desarrollador junior apasionado por la tecnología, el aprendizaje continuo y la construcción de soluciones prácticas. 
-Actualmente estoy aprendiendo y mejorando mis habilidades en desarrollo web y de software.
-Si no sé hacer algo no es excusa para no aprender a hacerlo ya que considero que cada cosa que no se hacer es un nuevo reto y conocimiento 
-a adquirir. 
+Me entusiasma enfrentar nuevos retos y no tengo miedo de aprender lo que sea necesario para resolver un problema. 
+No me conformo solo con encontrar la solución: me gusta entender el "por qué" detrás de cada cosa, investigar por mi cuenta y profundizar en el conocimiento para seguir creciendo como desarrollador.
 
 ---
 
